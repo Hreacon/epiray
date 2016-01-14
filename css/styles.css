@@ -1,0 +1,32 @@
+
+h1 {
+  text-align: center;
+  color: pink;
+  text-decoration: underline;
+}
+.form{
+  width: 60%;
+  margin:auto;
+}
+.form label{
+  display: inline-block;
+  width: 45%;
+}
+.form input {
+  width: 54%;
+}
+.form input[name=submit], button {
+  width:100%;
+  margin-top:10px;
+}
+.beer {
+  display: none;
+}
+.column {
+  width:45%;
+  float:left;
+  text-align: center;
+}
+.icecream {
+  list-style: none;
+}
